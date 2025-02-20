@@ -52,7 +52,7 @@ class Pagina:
             }
         </style>
         """, unsafe_allow_html=True)
-        st.title("Bem-vindo ao Sistema de Gestão de Aprovados ISS Cuiabá", help=TEXTO_PROPOSITO_WEBAPP)
+        st.title("Bem-vindo ao Sistema de Gestão de Aprovados do CAGE RS", help=TEXTO_PROPOSITO_WEBAPP)
         st.text(TEXTO_MUDANCAS_ATUAIS)
         opcao = st.radio("Escolha uma opção:", ["Login", "Criar Conta"])
 

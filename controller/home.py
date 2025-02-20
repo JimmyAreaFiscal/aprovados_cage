@@ -114,7 +114,7 @@ def mostrar_link(usuario, db):
     
     else:
         st.write("### Mensagem do Grupo")
-        st.text("Infelizmente ainda não chegou a sua vez para ser inserido no Grupo do CR de Cuiabá. Mas calma! Aguarde os outros aprovados confirmarem que não vão assumir ou aumentar a quantidade de vagas!")
+        st.text("Infelizmente ainda não chegou a sua vez para ser inserido no Grupo do CR da CAGE RS. Mas calma! Aguarde os outros aprovados confirmarem que não vão assumir ou aumentar a quantidade de vagas!")
         
 
 def exibir_mensagens_usuario(usuario, db):
