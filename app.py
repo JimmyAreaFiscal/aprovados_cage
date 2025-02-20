@@ -6,7 +6,7 @@ from contas import Conta
 from controller.pagina import Pagina  # Importamos a classe que acabamos de criar
 
 st.set_page_config(
-    page_title="Gerenciador de Aprovados em ISS Cuiabá",
+    page_title="Gerenciador de Aprovados no CAGE RS",
     initial_sidebar_state="expanded"
 )
 
