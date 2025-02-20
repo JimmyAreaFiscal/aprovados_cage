@@ -1,0 +1,8 @@
+.venv
+__pycache__
+__*
+*.db
+*.toml
+*.jpg
+*.jpeg
+*.jpeg.enc
